@@ -1,0 +1,16 @@
+{
+  "name": "AudioPrototype",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.20.0",
+    "meteor-node-stubs": "~0.2.4",
+    "simple-peer": "^8.0.0"
+  },
+  "devDependencies": {
+    "budo": "^9.4.7",
+    "watchify": "^3.9.0"
+  }
+}
